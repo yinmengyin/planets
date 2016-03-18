@@ -1,1 +1,2 @@
 Pluto is another satellite
+It has a moon called Charon.
